@@ -1,5 +1,4 @@
 # Sublime Video
-> 因为爱, 所以爱.
 
 [优酷][优酷]
 [SublimeVideo][SublimeVideo]
@@ -13,9 +12,17 @@
 [简书]: http://www.jianshu.com/collection/1627f31c077b
 [官网]: http://www.sublimetext.com
 
+## Contents
 
-## 适用人群
-- 熟悉Python
-- 喜欢用键盘操作, 不喜欢鼠标
-- 语言小众
+[Install](./install.md)
 
+
+## Todo
+
+- 多终端之间, Sublime的同步
+```
+吃瓜群众甲(xxxxx)  上午 10:27:34
+能不能做一期sublime整包移动到另一台电脑上的小视频
+```
+
+- 不熟Python的人怎么写插件

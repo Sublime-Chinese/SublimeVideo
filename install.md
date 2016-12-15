@@ -21,10 +21,16 @@
     - 点选单词
 - Make batch edits with Multiple Selections.
     - ⇧⌘L
-    - ctrl + l
+    - ctrl + j
 - Command Palette
     - ⇧⌘P
     - ctrl + shift + p
 - 通过正则表达式查找, 替换
-- 
+- Goto Anything
+
+
+## 适用人群
+- 熟悉Python
+- 喜欢用键盘操作, 不喜欢鼠标
+- 语言小众
 
