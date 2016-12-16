@@ -13,16 +13,22 @@
 [官网]: http://www.sublimetext.com
 
 ## Contents
-
 [Install](./install.md)
 
 
 ## Todo
-
-- 多终端之间, Sublime的同步
-```
+- *.sublime-snippet snippet  
+- *.sublime-build  
+- *.sublime-keymap  
+- *.sublime-package  
+- *.sublime-settings  
+- *.sublime-mousemap  
+- *.sublime-commands  
+- *.sublime-macro  
+- *.sublime-menu  
+- 多终端之间, Sublime的同步  
+```  
 吃瓜群众甲(xxxxx)  上午 10:27:34
 能不能做一期sublime整包移动到另一台电脑上的小视频
-```
-
-- 不熟Python的人怎么写插件
+```  
+- 不熟Python的人怎么写插件  
