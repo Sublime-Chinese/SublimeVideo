@@ -1,4 +1,6 @@
 # Install
+> [Video](http://v.youku.com/v_show/id_XMTg2NTI0NzUyNA==.html)
+
 
 ## 安装
 - ❎ 百度
@@ -16,21 +18,16 @@
 - 删除本地Packages目录
 
 ## 6个小技巧
-- Ctrl + d
+- 通过多选, 批量修改变量名字
+> Ctrl + d
     - 全选单词
     - 点选单词
-- Make batch edits with Multiple Selections.
+- 多行编辑
     - ⇧⌘L
     - ctrl + j
-- Command Palette
+- 命令面板
     - ⇧⌘P
     - ctrl + shift + p
 - 通过正则表达式查找, 替换
 - Goto Anything
-
-
-## 适用人群
-- 熟悉Python
-- 喜欢用键盘操作, 不喜欢鼠标
-- 语言小众
 
