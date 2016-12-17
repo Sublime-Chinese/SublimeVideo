@@ -1,11 +1,11 @@
 # Sublime Video
 
 ## 相关链接
-[本视频优酷地址][优酷]
-[本视频Github地址][SublimeVideo]
-[简书-Sublime主题][简书]
-[Sublime Chinese][github]
-[官网][官网]
+[本视频优酷地址][优酷]  
+[本视频Github地址][SublimeVideo]  
+[简书-Sublime主题][简书]  
+[Sublime Chinese][github]  
+[官网][官网]  
 
 
 ## 目录

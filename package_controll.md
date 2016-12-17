@@ -2,7 +2,7 @@
 
 ## 安装
 - Python code
-打开`https://packagecontrol.io`
+打开[https://packagecontrol.io](https://packagecontrol.io)
 切换至`installation`
 `copy python code` -> 复制
 ctrl + ` -> 打开Sublime控制台
